@@ -36,7 +36,6 @@ Focus on converting casual Customers to Subscribers through tailored incentives 
 ## 📁 Files Included
 
 - `Ford_Bike_Sharing_EDA.ipynb`: Full Jupyter/Colab notebook with code and visualizations
-- `images/`: Key plots and charts (optional folder)
 - `dataset/`: Sample dataset (if shareable)
 
 ---
